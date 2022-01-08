@@ -3,5 +3,5 @@
 - BlockMesh paramétrico
 - Caso Referencia
 
-[![Visualización]()(https://youtu.be/VA8E2BEMRDQ)
+[![Visualización]()](https://youtu.be/VA8E2BEMRDQ)
 
